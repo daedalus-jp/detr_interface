@@ -1,0 +1,1111 @@
+{
+    "images": [
+        {
+            "id": 822,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2558.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2558.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 14463,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 14463,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 823,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2590.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2590.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 20158,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 20158,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 824,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2591.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2591.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 9529,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 9529,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 825,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2592.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2592.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 18465,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 18465,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 826,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2593.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2593.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 8288,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 1893,
+                    "tools_used": []
+                },
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 6395,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 827,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2594.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2594.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 13357,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 13357,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 828,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2599.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2599.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 5704,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 5704,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 829,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2605.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2605.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 12677,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 12677,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 830,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2609.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2609.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 6149,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 6149,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 831,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2610.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2610.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 8510,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 8510,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 832,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2614.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2614.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 13322,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 13322,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 833,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2616.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2616.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 7596,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 7596,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 834,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2617.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2617.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 12200,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 12200,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 835,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2620.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2620.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 6557,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 6557,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        },
+        {
+            "id": 836,
+            "dataset_id": 51,
+            "category_ids": [
+                0
+            ],
+            "path": "/datasets/val_data_set_3/IMG_2624.JPG",
+            "width": 907,
+            "height": 1210,
+            "file_name": "IMG_2624.JPG",
+            "annotated": true,
+            "annotating": [],
+            "num_annotations": 1,
+            "metadata": {},
+            "milliseconds": 11672,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "user": "tk2",
+                    "milliseconds": 11672,
+                    "tools_used": []
+                }
+            ],
+            "regenerate_thumbnail": false,
+            "is_modified": false
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "racket",
+            "supercategory": "",
+            "color": "#31ed46",
+            "metadata": {},
+            "creator": "tk2",
+            "keypoint_colors": []
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9589,
+            "image_id": 822,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    148.3,
+                    1019.9,
+                    148.3,
+                    61.1,
+                    746.2,
+                    61.1,
+                    746.2,
+                    1019.9
+                ]
+            ],
+            "area": 573482,
+            "bbox": [
+                148,
+                61,
+                598,
+                959
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#ba053f",
+            "metadata": {},
+            "milliseconds": 11971,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260689384
+                    },
+                    "user": "tk2",
+                    "milliseconds": 11971,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9590,
+            "image_id": 823,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    53.9,
+                    1150.7,
+                    53.9,
+                    457.6,
+                    567.4,
+                    457.6,
+                    567.4,
+                    1150.7
+                ]
+            ],
+            "area": 355509,
+            "bbox": [
+                54,
+                458,
+                513,
+                693
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#6ce2cc",
+            "metadata": {},
+            "milliseconds": 17438,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260704076
+                    },
+                    "user": "tk2",
+                    "milliseconds": 17438,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9591,
+            "image_id": 824,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    4.6,
+                    876.2,
+                    4.6,
+                    301.4,
+                    681.7,
+                    301.4,
+                    681.7,
+                    876.2
+                ]
+            ],
+            "area": 389275,
+            "bbox": [
+                5,
+                301,
+                677,
+                575
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#759ce6",
+            "metadata": {},
+            "milliseconds": 8304,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260722746
+                    },
+                    "user": "tk2",
+                    "milliseconds": 8304,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9592,
+            "image_id": 825,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    716.6,
+                    423.6,
+                    716.6,
+                    796.4,
+                    158,
+                    796.4,
+                    158,
+                    423.6
+                ]
+            ],
+            "area": 207948,
+            "bbox": [
+                158,
+                424,
+                559,
+                372
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#cad130",
+            "metadata": {},
+            "milliseconds": 15992,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260733529
+                    },
+                    "user": "tk2",
+                    "milliseconds": 15992,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9593,
+            "image_id": 826,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    174.2,
+                    1064.5,
+                    174.2,
+                    358.7,
+                    485.9,
+                    358.7,
+                    485.9,
+                    1064.5
+                ]
+            ],
+            "area": 220272,
+            "bbox": [
+                174,
+                359,
+                312,
+                706
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#e0ba41",
+            "metadata": {},
+            "milliseconds": 5119,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260750800
+                    },
+                    "user": "tk2",
+                    "milliseconds": 5119,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9594,
+            "image_id": 827,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    84,
+                    1213.3,
+                    84,
+                    389.1,
+                    629.8,
+                    389.1,
+                    629.8,
+                    1213.3
+                ]
+            ],
+            "area": 448266,
+            "bbox": [
+                84,
+                389,
+                546,
+                821
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#9d721c",
+            "metadata": {},
+            "milliseconds": 11893,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260757381
+                    },
+                    "user": "tk2",
+                    "milliseconds": 11893,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9595,
+            "image_id": 828,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    71.9,
+                    985.9,
+                    71.9,
+                    674.2,
+                    630.6,
+                    674.2,
+                    630.6,
+                    985.9
+                ]
+            ],
+            "area": 174408,
+            "bbox": [
+                72,
+                674,
+                559,
+                312
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#3c31e6",
+            "metadata": {},
+            "milliseconds": 4070,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260770934
+                    },
+                    "user": "tk2",
+                    "milliseconds": 4070,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9596,
+            "image_id": 829,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    74.4,
+                    891.2,
+                    74.4,
+                    159.2,
+                    512.1,
+                    159.2,
+                    512.1,
+                    891.2
+                ]
+            ],
+            "area": 320616,
+            "bbox": [
+                74,
+                159,
+                438,
+                732
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#65efd9",
+            "metadata": {},
+            "milliseconds": 10995,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260776712
+                    },
+                    "user": "tk2",
+                    "milliseconds": 10995,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9597,
+            "image_id": 830,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    -7.9,
+                    1077,
+                    -7.9,
+                    540.8,
+                    590.7,
+                    540.8,
+                    590.7,
+                    1077
+                ]
+            ],
+            "area": 316776,
+            "bbox": [
+                0,
+                541,
+                591,
+                536
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#bb0e22",
+            "metadata": {},
+            "milliseconds": 4734,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260789128
+                    },
+                    "user": "tk2",
+                    "milliseconds": 4734,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9598,
+            "image_id": 831,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    119.3,
+                    1169.4,
+                    119.3,
+                    418.8,
+                    688.5,
+                    418.8,
+                    688.5,
+                    1169.4
+                ]
+            ],
+            "area": 427500,
+            "bbox": [
+                119,
+                419,
+                570,
+                750
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#f103a5",
+            "metadata": {},
+            "milliseconds": 7239,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260795146
+                    },
+                    "user": "tk2",
+                    "milliseconds": 7239,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9599,
+            "image_id": 832,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    100.1,
+                    1133.3,
+                    100.1,
+                    497.6,
+                    620.8,
+                    497.6,
+                    620.8,
+                    1133.3
+                ]
+            ],
+            "area": 330835,
+            "bbox": [
+                100,
+                498,
+                521,
+                635
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#2531d9",
+            "metadata": {},
+            "milliseconds": 12143,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260803571
+                    },
+                    "user": "tk2",
+                    "milliseconds": 12143,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9600,
+            "image_id": 833,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    -3.9,
+                    1208.4,
+                    -3.9,
+                    423.7,
+                    541.9,
+                    423.7,
+                    541.9,
+                    1208.4
+                ]
+            ],
+            "area": 424928,
+            "bbox": [
+                0,
+                424,
+                542,
+                784
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#288afa",
+            "metadata": {},
+            "milliseconds": 6496,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260816811
+                    },
+                    "user": "tk2",
+                    "milliseconds": 6496,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9601,
+            "image_id": 834,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    1.6,
+                    1213.2,
+                    1.6,
+                    528,
+                    527.4,
+                    528,
+                    527.4,
+                    1213.2
+                ]
+            ],
+            "area": 358050,
+            "bbox": [
+                2,
+                528,
+                525,
+                682
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#17bea5",
+            "metadata": {},
+            "milliseconds": 10931,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260824559
+                    },
+                    "user": "tk2",
+                    "milliseconds": 10931,
+                    "tools_used": [
+                        "BBox",
+                        "Select"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9602,
+            "image_id": 835,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    0.6,
+                    1142.5,
+                    0.6,
+                    390.5,
+                    381.9,
+                    390.5,
+                    381.9,
+                    1142.5
+                ]
+            ],
+            "area": 286512,
+            "bbox": [
+                1,
+                391,
+                381,
+                752
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#e33ea7",
+            "metadata": {},
+            "milliseconds": 5261,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260836799
+                    },
+                    "user": "tk2",
+                    "milliseconds": 5261,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9603,
+            "image_id": 836,
+            "category_id": 0,
+            "dataset_id": 51,
+            "segmentation": [
+                [
+                    606.4,
+                    91.9,
+                    606.4,
+                    891.3,
+                    -3.4,
+                    891.3,
+                    -3.4,
+                    91.9
+                ]
+            ],
+            "area": 484194,
+            "bbox": [
+                0,
+                92,
+                606,
+                799
+            ],
+            "iscrowd": false,
+            "isbbox": true,
+            "creator": "tk2",
+            "width": 907,
+            "height": 1210,
+            "color": "#9de85d",
+            "metadata": {},
+            "milliseconds": 10558,
+            "events": [
+                {
+                    "_cls": "SessionEvent",
+                    "created_at": {
+                        "$date": 1673260843264
+                    },
+                    "user": "tk2",
+                    "milliseconds": 10558,
+                    "tools_used": [
+                        "BBox"
+                    ]
+                }
+            ]
+        }
+    ]
+}
